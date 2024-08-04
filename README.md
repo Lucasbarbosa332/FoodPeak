@@ -6,7 +6,7 @@ Landing page de Hamburegureria
 
 
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/FoodPeak/blob/main/foodpeak-removebg-preview.png"></img>
 
 <br/>
 
