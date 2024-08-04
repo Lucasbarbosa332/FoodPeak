@@ -51,3 +51,4 @@ Layout Responsivo: Design adaptável que proporciona uma experiência de usuári
 <h3 align='center'> 🌎 Rodando no navegador</h3>
 
 - Você pode clicar no link para ser redirecionado ao site:
+  [FoodPeak](https://foodpeak.netlify.app/)
