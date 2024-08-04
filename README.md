@@ -10,11 +10,11 @@ Landing page de Hamburegureria
 
 <br/>
 
-Projeto "FoodPeak"
+# Projeto "FoodPeak"
 Descrição Geral:
 O projeto "FoodPeak" é uma landing page para uma hamburgueria, focada em destacar os principais produtos e atrair clientes. Esta página única foi desenvolvida com HTML, CSS e JavaScript, oferecendo uma apresentação direta e impactante da marca e dos hambúrgueres oferecidos.
 
-Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
 HTML: Estrutura o conteúdo da página, organizando as seções de maneira lógica e fácil de navegar.
 CSS: Aplica estilos visuais para tornar a página atraente e coerente com a identidade visual da hamburgueria.
@@ -23,11 +23,11 @@ Componentes Principais:
 
 Seção de Boas-Vindas: Um banner inicial com imagens de alta qualidade dos hambúrgueres, acompanhado de um slogan que captura a essência da hamburgueria.
 
-# Destaques do Design:
+ Destaques do Design:
 
-# Estilo Atraente: Uso de cores vibrantes e fontes modernas para capturar a atenção e refletir a energia da hamburgueria.
-# Imagens de Alta Qualidade: Fotos profissionais dos hambúrgueres que destacam a aparência e a qualidade dos produtos.
-# Layout Responsivo: Design adaptável que proporciona uma experiência de usuário otimizada em dispositivos móveis e desktops.
+ Estilo Atraente: Uso de cores vibrantes e fontes modernas para capturar a atenção e refletir a energia da hamburgueria.
+Imagens de Alta Qualidade: Fotos profissionais dos hambúrgueres que destacam a aparência e a qualidade dos produtos.
+Layout Responsivo: Design adaptável que proporciona uma experiência de usuário otimizada em dispositivos móveis e desktops.
 
 
 
